@@ -10,3 +10,5 @@ Setup:  Create a Repository in Github.
 Initialize it with this README.md 
 
 I have created a GitHub Repository, please see screengrabs - this can be seen in the url, and on the cmd line:
+
+![project-directory](image/Screenshot_1.jpg)
