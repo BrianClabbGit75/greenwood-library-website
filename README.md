@@ -36,3 +36,6 @@ vim home.html
 
 See the four files now on VSCode Editor
 
+![project-directory](image/Screenshot_4.png)
+
+
