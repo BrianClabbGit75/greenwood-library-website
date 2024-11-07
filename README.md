@@ -29,8 +29,8 @@ events.html
 contact_us.html
 ```
 This was performed on my Linux Ubuntu Machine. You can see the files on VS Code, and using vim command to enter text within the files:
-'''markdown
+```markdown
 vim home.html
-'''
-
+```
+![project-directory](image/Screenshot_3.png)
 
