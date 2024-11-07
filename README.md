@@ -24,8 +24,13 @@ Task1 - Create the following web page files in VS Code Editor, in the main branc
 
 ```markdown
 home.html
-abou_us.html
+about_us.html
 events.html
 contact_us.html
 ```
-This was performed on my Linux Ubuntu Machine
+This was performed on my Linux Ubuntu Machine. You can see the files on VS Code, and using vim command to enter text within the files:
+'''markdown
+vim home.html
+'''
+
+
