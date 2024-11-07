@@ -34,3 +34,5 @@ vim home.html
 ```
 ![project-directory](image/Screenshot_3.png)
 
+See the four files now on VSCode Editor
+
