@@ -46,3 +46,11 @@ Push changes to the main branch:
 
 ![project-directory](image/Screenshot_6.png)
 
+Next-for **Morgan**, we create another branch, ***add-book-reviews***
+
+![project-directory](image/Screenshot_8.png)
+
+
+
+Finally, we will simulate fictional character **'Jamie's'** contribution, which will be to be create the new branch ***update-events***, and pull the latest changes from the ***main*** branch.
+
