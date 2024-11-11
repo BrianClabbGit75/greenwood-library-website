@@ -68,9 +68,13 @@ and Raised a PR
 We then ***merged*** **add-book-reviews** branch to the **main** branch.
 
 
+Finally, we will simulate fictional character **'Jamie's'** contribution, which will be to be create the new branch ***update-events***, and pull  the latest changes from the ***main*** branch.
 
-
-
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch update-events
+Your branch is up to date with 'origin/update-events'.
 
 
 
