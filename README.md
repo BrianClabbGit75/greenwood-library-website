@@ -55,7 +55,15 @@ Next-for **Morgan**, we create another branch, ***add-book-reviews***
 We then created the file, within this branch, called **book_reviews.html**, and added somme text:
 ![project-directory](image/Screenshot_10.png)
 
+Like before we
 
+```markdown
+Staged
+Commit
+Pushed Changed
+and Raised a PR
+```
+...For this branch
 
 
 
