@@ -4,7 +4,7 @@
 
 **Project**
 
-In this project I will be enhancing a library website called Greenwood Community Library. The website aims to be more engaging & Informative for its visitors. 
+In this project I will be enhancing a library website called Greenwood Community Library. The website aims to be more engaging & Informative for its visitors. First of all, we will simulate fictional character **'Morgan's'** contribution:
 
 Setup:  Create a Repository in Github.
 Initialize it with this README.md
