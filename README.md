@@ -42,3 +42,7 @@ Task 3- We now Stage, Commit - saving any changes to the 'Main' Branch:-
 
 ![project-directory](image/Screenshot_5.png)
 
+Push changes to the main branch:
+
+![project-directory](image/Screenshot_6.png)
+
