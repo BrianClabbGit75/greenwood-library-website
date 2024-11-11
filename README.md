@@ -32,7 +32,7 @@ Task 2 - This was performed on my Linux Ubuntu Machine. You can see the files on
 ```markdown
 vim home.html
 ```
-![project-directory](image/Screenshot_5.png)
+![project-directory](image/Screenshot_3.png)
 
 See the four files now on VSCode Editor
 
@@ -40,5 +40,5 @@ See the four files now on VSCode Editor
 
 Task 3- We now Stage, Commit - saving any changes to the 'Main' Branch:-  
 
-![project-directory](image/Screenshot_4.png)
+![project-directory](image/Screenshot_5.png)
 
