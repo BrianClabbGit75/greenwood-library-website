@@ -58,5 +58,5 @@ Next-for **Morgan**, we create another branch, ***add-book-reviews***
 
 
 
-Finally, we will simulate fictional character **'Jamie's'** contribution, which will be to be create the new branch ***update-events***, and pull the latest changes from the ***main*** branch.
+
 
