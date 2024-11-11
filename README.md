@@ -38,4 +38,7 @@ See the four files now on VSCode Editor
 
 ![project-directory](image/Screenshot_4.png)
 
+Task 3- We now Stage, Commit - saving any changes to the 'Main' Branch:-  
+
+![project-directory](image/Screenshot_4.png)
 
