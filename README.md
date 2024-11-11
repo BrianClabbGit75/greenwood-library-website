@@ -53,7 +53,7 @@ Next-for **Morgan**, we create another branch, ***add-book-reviews***
 ![project-directory](image/Screenshot_9.png)
 
 We then created the file, within this branch, called **book_reviews.html**, and added somme text:
-
+![project-directory](image/Screenshot_10.png)
 
 
 
